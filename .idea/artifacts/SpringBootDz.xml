@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpringBootDz">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringBootDz</output-path>
+    <root id="archive" name="SpringBootDz.jar" />
+  </artifact>
+</component>

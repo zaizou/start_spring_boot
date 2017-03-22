@@ -1,0 +1,5 @@
+Starting Spring Boot
+-Set up default configuration
+-Start Spring Application Context
+-Perform Clas Path Scan
+-Starts Tomcat Server
